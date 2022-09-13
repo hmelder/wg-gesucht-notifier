@@ -1,0 +1,17 @@
+LICENSE
+README.rst
+setup.cfg
+setup.py
+wg_gesucht/__init__.py
+wg_gesucht/_version.py
+wg_gesucht/cli.py
+wg_gesucht/crawler.py
+wg_gesucht/create_results_folders.py
+wg_gesucht/logger.py
+wg_gesucht/user_details.py
+wg_gesucht_notifier.egg-info/PKG-INFO
+wg_gesucht_notifier.egg-info/SOURCES.txt
+wg_gesucht_notifier.egg-info/dependency_links.txt
+wg_gesucht_notifier.egg-info/entry_points.txt
+wg_gesucht_notifier.egg-info/requires.txt
+wg_gesucht_notifier.egg-info/top_level.txt

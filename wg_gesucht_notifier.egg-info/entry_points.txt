@@ -1,0 +1,2 @@
+[console_scripts]
+wg-gesucht-notifier = wg_gesucht.cli:cli
